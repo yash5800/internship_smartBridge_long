@@ -52,3 +52,14 @@ Open `http://localhost:8501` in your browser.
 - `google-generativeai` - Google Gemini API
 - `python-dotenv` - Environment variable management
 
+## Project Structure
+
+```
+internship_smartBridge_long/
+├── README.md                 # This file
+├── Document/                 # Documentation files
+├── Project Files/
+│   ├── app.py               # Main Streamlit application
+│   └── requirements.txt      # Python dependencies
+└── Video/                    # Video resources
+```
